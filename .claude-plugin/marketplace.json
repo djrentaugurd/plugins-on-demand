@@ -1,0 +1,16 @@
+{
+  "name": "plugins-on-demand",
+  "owner": {
+    "name": "DJR27"
+  },
+  "description": "Enable Claude Code plugins only when a task needs them.",
+  "plugins": [
+    {
+      "name": "plugins-on-demand",
+      "source": "./",
+      "description": "Keep plugins disabled until a task needs them, then enable the right one and turn it off again.",
+      "category": "productivity",
+      "keywords": ["plugins", "context", "tokens"]
+    }
+  ]
+}

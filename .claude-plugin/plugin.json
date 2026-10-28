@@ -1,0 +1,12 @@
+{
+  "name": "plugins-on-demand",
+  "version": "0.1.0",
+  "description": "Keep Claude Code plugins disabled until a task needs them, then enable the right one and turn it off again. Saves context in every session.",
+  "author": {
+    "name": "DJR27"
+  },
+  "homepage": "https://github.com/djrentaugurd/plugins-on-demand",
+  "repository": "https://github.com/djrentaugurd/plugins-on-demand",
+  "license": "MIT",
+  "keywords": ["plugins", "context", "tokens", "productivity", "claude-code"]
+}
